@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const defaultOwner = '923444844060';
+const defaultOwner = '393291958600';
 
 
 // Check for the OWNERS environment variable; if not found, use the default
@@ -42,7 +42,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.canal = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.canal = 'https://whatsapp.com/channel/0029Vat4rzn6BIEqOq7TKH05'
 
 
 global.APIs = {
@@ -76,11 +76,11 @@ global.premium = 'true'
 global.packname = 'NexusAI'
 global.author = 'UrFavNexy'
 global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
-global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/global.techinfo'
-global.dygp = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
-global.fgsc = 'https://github.com/GlobalTechInfo/MEGA-AI'
-global.fgyt = 'https://youtube.com/@GlobalTechInfo'
-global.fgpyp = 'https://youtube.com/@GlobalTechInfo'
+global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/nexustrappyyyy'
+global.dygp = 'https://whatsapp.com/channel/0029Vat4rzn6BIEqOq7TKH05'
+global.fgsc = 'https://github.com/MineyYT/MEGA-AI'
+global.fgyt = ''
+global.fgpyp = ''
 global.fglog = 'https://i.ibb.co/G2dh9cB/qasim.jpg'
 global.thumb = fs.readFileSync('./assets/A.jpg')
 
